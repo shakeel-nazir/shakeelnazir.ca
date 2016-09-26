@@ -10,5 +10,4 @@ Even before learning what motion graphics was, I was always deconstruction movem
 - [hey@shakeelnazir.ca](mailto:hey@shakeelnazir.ca)
 - [behance](https://www.behance.net/shakeelnaz290c)
 - [linkedin](https://www.linkedin.com/in/shakeel-nazir-255b1799)
----
 - © Shakeel Nazir
