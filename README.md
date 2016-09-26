@@ -2,7 +2,7 @@
 
 #### [shakeelnazir.ca](shakeelnazir.ca)
 
-! {Picture of Shakeel Nazir}(/Users/shakeel/Desktop/shakeelnazir.ca/images/nazir.jpg)
+! {Picture of Shakeel Nazir}(..shakeelnazir.ca/images/nazir.jpg)
 
 Even before learning what motion graphics was, I was always deconstruction movement. Now that I can create my own motion graphics I am obsessed.
 
