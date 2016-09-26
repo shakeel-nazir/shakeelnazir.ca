@@ -2,7 +2,7 @@
 
 #### [shakeelnazir.ca](shakeelnazir.ca)
 
-![Picture of Shakeel Nazir](/images/nazir.JPG | width=100)
+![Picture of Shakeel Nazir](/images/nazir.JPG =250x250)
 
 Even before learning what motion graphics was, I was always deconstruction movement. Now that I can create my own motion graphics I am obsessed.
 
